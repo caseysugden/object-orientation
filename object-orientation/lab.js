@@ -5,7 +5,9 @@
 */
 
 //Code here
-
+function test() {
+  console.log(test);
+}
 
 
 //////////////////////////// PROBLEM 2 ////////////////////////////
